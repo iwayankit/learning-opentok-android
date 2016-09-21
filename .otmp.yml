@@ -1,0 +1,10 @@
+name: Learning OpenTok Android
+author: TokBox, Inc.
+website: https://tokbox.com
+tags:
+ - Android
+ - tutorial
+description: This sample app shows how to accomplish basic tasks using the OpenTok Android SDK.
+image: https://www.tokbox.com/blog/wp-content/uploads/2013/08/chrome-for-android.jpg
+platforms:
+ - Android
